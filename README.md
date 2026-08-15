@@ -14,6 +14,10 @@ code.
 codebase, a quantifiable score for how ambiguous the name is. Then it walks
 you through an _agentic pipeline™_ to replace it with a clearer name.
 
+## Video Demo
+
+https://github.com/user-attachments/assets/7b776d7e-3440-4eba-8c66-3f416485861a
+
 ## How it works
 
 <img src="docs/diagram.png" alt="snafu diagram" width="50%">
