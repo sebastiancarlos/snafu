@@ -16,7 +16,7 @@ you through an _agentic pipeline™_ to replace it with a clearer name.
 
 ## How it works
 
-<img src="docs/diagram.png" alt="snafu diagram">
+<img src="docs/diagram.png" alt="snafu diagram" width="50%">
 
 `snafu` first obtains symbols in your source file, and sends them
 along the `snafu` pipeline with **no extra context** (no function body, no
