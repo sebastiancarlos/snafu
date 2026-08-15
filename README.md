@@ -1,7 +1,7 @@
 # SNAFU: Symbol Name Ambiguity Fixer-Upper
 
 <p align="center">
-  <img src="docs/logo.png" alt="snafu">
+  <img src="docs/logo.png" alt="snafu" width="70%">
 </p>
 
 > Is "naming things" hard? And if so, can one detect and measure name quality?
