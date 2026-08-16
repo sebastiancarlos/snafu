@@ -224,6 +224,10 @@ Env vars:
     See https://docs.mozilla.ai/any-llm/providers/ for the full list.
 ```
 
+## Similar Projects
+
+- [**`namer`**](https://gitlab.com/MagickShel/namer) 
+
 ## License
 
 MIT
